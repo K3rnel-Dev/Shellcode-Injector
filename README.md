@@ -1,5 +1,5 @@
 # Shellcode-Injector
-![C++](https://img.shields.io/badge/Language-CSHARP-aqua?style=for-the-badge&logo=CPP)
+![C++](https://img.shields.io/badge/Language-CPP-aqua?style=for-the-badge&logo=CPP)
 ![](logo.png)
 
 ## 📑 About
